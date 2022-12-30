@@ -1,2 +1,2 @@
 # maze_solver
-boot.dev maze solver
+second boot.dev project, maze solver
